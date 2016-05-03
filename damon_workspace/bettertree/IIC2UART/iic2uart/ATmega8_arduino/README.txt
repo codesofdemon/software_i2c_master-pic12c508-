@@ -1,0 +1,1 @@
+It is used to iic2uart.
